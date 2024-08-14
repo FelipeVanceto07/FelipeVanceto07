@@ -33,7 +33,6 @@ procuro aprednder constantemente, estou  adquirindo novas habilidades e desenvol
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeVanceto07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeVanceto07&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 ##
 <div>
 Loanding   
