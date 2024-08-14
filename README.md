@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  </div>
 ## 💻🧙: Sobre Mim
 <div>
-  <p>Sou aluno do Senai de mecatrônica  </p>
+  <p>Sou estudante de Ciência da Computação  </p>
 </div>
 procuro aprednder constantemente, estou  adquirindo novas habilidades e desenvolvendo projetos.<br>
 
